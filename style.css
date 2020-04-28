@@ -1,0 +1,26 @@
+.container {
+    border: 1px solid black;
+    width: 50%;
+    border: 1px solid gray;
+    margin: 0 auto;
+    margin-top: 3%;
+
+}
+
+h1, h2 {
+    width: 50%;
+    border: 1px solid gray;
+    margin: 0 auto;
+}
+
+#loadQuote {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#quote-box {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
